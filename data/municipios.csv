@@ -1,0 +1,224 @@
+Nome_UF,Mesorregião Geográfica,Nome_Mesorregião,Microrregião Geográfica,Nome_Microrregião,Município,Código Município Completo,Nome_Município
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,00106,2500106,Água Branca
+Paraíba,01,Sertão Paraibano,005,Piancó,00205,2500205,Aguiar
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,00304,2500304,Alagoa Grande
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,00403,2500403,Alagoa Nova
+Paraíba,03,Agreste Paraibano,016,Guarabira,00502,2500502,Alagoinha
+Paraíba,02,Borborema,011,Cariri Oriental,00536,2500536,Alcantil
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,00577,2500577,Algodão de Jandaíra
+Paraíba,04,Mata Paraibana,023,Litoral Sul,00601,2500601,Alhandra
+Paraíba,02,Borborema,010,Cariri Ocidental,00734,2500734,Amparo
+Paraíba,01,Sertão Paraibano,003,Sousa,00775,2500775,Aparecida
+Paraíba,03,Agreste Paraibano,016,Guarabira,00809,2500809,Araçagi
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,00908,2500908,Arara
+Paraíba,03,Agreste Paraibano,013,Curimataú Oriental,01005,2501005,Araruna
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,01104,2501104,Areia
+Paraíba,01,Sertão Paraibano,004,Patos,01153,2501153,Areia de Baraúnas
+Paraíba,03,Agreste Paraibano,014,Esperança,01203,2501203,Areial
+Paraíba,03,Agreste Paraibano,019,Umbuzeiro,01302,2501302,Aroeiras
+Paraíba,02,Borborema,010,Cariri Ocidental,01351,2501351,Assunção
+Paraíba,04,Mata Paraibana,020,Litoral Norte,01401,2501401,Baía da Traição
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,01500,2501500,Bananeiras
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,01534,2501534,Baraúna
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,01609,2501609,Barra de Santa Rosa
+Paraíba,02,Borborema,011,Cariri Oriental,01575,2501575,Barra de Santana
+Paraíba,02,Borborema,011,Cariri Oriental,01708,2501708,Barra de São Miguel
+Paraíba,04,Mata Paraibana,022,João Pessoa,01807,2501807,Bayeux
+Paraíba,03,Agreste Paraibano,016,Guarabira,01906,2501906,Belém
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,02003,2502003,Belém do Brejo do Cruz
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,02052,2502052,Bernardino Batista
+Paraíba,01,Sertão Paraibano,006,Itaporanga,02102,2502102,Boa Ventura
+Paraíba,03,Agreste Paraibano,017,Campina Grande,02151,2502151,Boa Vista
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,02201,2502201,Bom Jesus
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,02300,2502300,Bom Sucesso
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,02409,2502409,Bonito de Santa Fé
+Paraíba,02,Borborema,011,Cariri Oriental,02508,2502508,Boqueirão
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,02706,2502706,Borborema
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,02805,2502805,Brejo do Cruz
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,02904,2502904,Brejo dos Santos
+Paraíba,04,Mata Paraibana,023,Litoral Sul,03001,2503001,Caaporã
+Paraíba,02,Borborema,011,Cariri Oriental,03100,2503100,Cabaceiras
+Paraíba,04,Mata Paraibana,022,João Pessoa,03209,2503209,Cabedelo
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,03308,2503308,Cachoeira dos Índios
+Paraíba,01,Sertão Paraibano,004,Patos,03407,2503407,Cacimba de Areia
+Paraíba,03,Agreste Paraibano,013,Curimataú Oriental,03506,2503506,Cacimba de Dentro
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,03555,2503555,Cacimbas
+Paraíba,03,Agreste Paraibano,016,Guarabira,03605,2503605,Caiçara
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,03704,2503704,Cajazeiras
+Paraíba,01,Sertão Paraibano,003,Sousa,03753,2503753,Cajazeirinhas
+Paraíba,03,Agreste Paraibano,018,Itabaiana,03803,2503803,Caldas Brandão
+Paraíba,02,Borborema,010,Cariri Ocidental,03902,2503902,Camalaú
+Paraíba,03,Agreste Paraibano,017,Campina Grande,04009,2504009,Campina Grande
+Paraíba,04,Mata Paraibana,020,Litoral Norte,04033,2504033,Capim
+Paraíba,02,Borborema,011,Cariri Oriental,04074,2504074,Caraúbas
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,04108,2504108,Carrapateira
+Paraíba,03,Agreste Paraibano,013,Curimataú Oriental,04157,2504157,Casserengue
+Paraíba,01,Sertão Paraibano,005,Piancó,04207,2504207,Catingueira
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,04306,2504306,Catolé do Rocha
+Paraíba,02,Borborema,011,Cariri Oriental,04355,2504355,Caturité
+Paraíba,01,Sertão Paraibano,006,Itaporanga,04405,2504405,Conceição
+Paraíba,01,Sertão Paraibano,003,Sousa,04504,2504504,Condado
+Paraíba,04,Mata Paraibana,022,João Pessoa,04603,2504603,Conde
+Paraíba,02,Borborema,010,Cariri Ocidental,04702,2504702,Congo
+Paraíba,01,Sertão Paraibano,005,Piancó,04801,2504801,Coremas
+Paraíba,02,Borborema,010,Cariri Ocidental,04850,2504850,Coxixola
+Paraíba,04,Mata Paraibana,021,Sapé,04900,2504900,Cruz do Espírito Santo
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,05006,2505006,Cubati
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,05105,2505105,Cuité
+Paraíba,04,Mata Paraibana,020,Litoral Norte,05238,2505238,Cuité de Mamanguape
+Paraíba,03,Agreste Paraibano,016,Guarabira,05204,2505204,Cuitegi
+Paraíba,04,Mata Paraibana,020,Litoral Norte,05279,2505279,Curral de Cima
+Paraíba,01,Sertão Paraibano,006,Itaporanga,05303,2505303,Curral Velho
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,05352,2505352,Damião
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,05402,2505402,Desterro
+Paraíba,01,Sertão Paraibano,006,Itaporanga,05600,2505600,Diamante
+Paraíba,03,Agreste Paraibano,013,Curimataú Oriental,05709,2505709,Dona Inês
+Paraíba,03,Agreste Paraibano,016,Guarabira,05808,2505808,Duas Estradas
+Paraíba,01,Sertão Paraibano,005,Piancó,05907,2505907,Emas
+Paraíba,03,Agreste Paraibano,014,Esperança,06004,2506004,Esperança
+Paraíba,03,Agreste Paraibano,017,Campina Grande,06103,2506103,Fagundes
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,06202,2506202,Frei Martinho
+Paraíba,03,Agreste Paraibano,019,Umbuzeiro,06251,2506251,Gado Bravo
+Paraíba,03,Agreste Paraibano,016,Guarabira,06301,2506301,Guarabira
+Paraíba,03,Agreste Paraibano,018,Itabaiana,06400,2506400,Gurinhém
+Paraíba,02,Borborema,011,Cariri Oriental,06509,2506509,Gurjão
+Paraíba,01,Sertão Paraibano,006,Itaporanga,06608,2506608,Ibiara
+Paraíba,01,Sertão Paraibano,005,Piancó,02607,2502607,Igaracy
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,06707,2506707,Imaculada
+Paraíba,03,Agreste Paraibano,018,Itabaiana,06806,2506806,Ingá
+Paraíba,03,Agreste Paraibano,018,Itabaiana,06905,2506905,Itabaiana
+Paraíba,01,Sertão Paraibano,006,Itaporanga,07002,2507002,Itaporanga
+Paraíba,04,Mata Paraibana,020,Litoral Norte,07101,2507101,Itapororoca
+Paraíba,03,Agreste Paraibano,018,Itabaiana,07200,2507200,Itatuba
+Paraíba,04,Mata Paraibana,020,Litoral Norte,07309,2507309,Jacaraú
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,07408,2507408,Jericó
+Paraíba,04,Mata Paraibana,022,João Pessoa,07507,2507507,João Pessoa
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,13653,2513653,Joca Claudino
+Paraíba,03,Agreste Paraibano,018,Itabaiana,07606,2507606,Juarez Távora
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,07705,2507705,Juazeirinho
+Paraíba,02,Borborema,008,Seridó Ocidental Paraibano,07804,2507804,Junco do Seridó
+Paraíba,04,Mata Paraibana,021,Sapé,07903,2507903,Juripiranga
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,08000,2508000,Juru
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,08109,2508109,Lagoa
+Paraíba,03,Agreste Paraibano,016,Guarabira,08208,2508208,Lagoa de Dentro
+Paraíba,03,Agreste Paraibano,017,Campina Grande,08307,2508307,Lagoa Seca
+Paraíba,01,Sertão Paraibano,003,Sousa,08406,2508406,Lastro
+Paraíba,02,Borborema,010,Cariri Ocidental,08505,2508505,Livramento
+Paraíba,03,Agreste Paraibano,016,Guarabira,08554,2508554,Logradouro
+Paraíba,04,Mata Paraibana,022,João Pessoa,08604,2508604,Lucena
+Paraíba,01,Sertão Paraibano,004,Patos,08703,2508703,Mãe d'Água
+Paraíba,01,Sertão Paraibano,003,Sousa,08802,2508802,Malta
+Paraíba,04,Mata Paraibana,020,Litoral Norte,08901,2508901,Mamanguape
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,09008,2509008,Manaíra
+Paraíba,04,Mata Paraibana,020,Litoral Norte,09057,2509057,Marcação
+Paraíba,04,Mata Paraibana,021,Sapé,09107,2509107,Mari
+Paraíba,01,Sertão Paraibano,003,Sousa,09156,2509156,Marizópolis
+Paraíba,03,Agreste Paraibano,017,Campina Grande,09206,2509206,Massaranduba
+Paraíba,04,Mata Paraibana,020,Litoral Norte,09305,2509305,Mataraca
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,09339,2509339,Matinhas
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,09370,2509370,Mato Grosso
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,09396,2509396,Maturéia
+Paraíba,03,Agreste Paraibano,018,Itabaiana,09404,2509404,Mogeiro
+Paraíba,03,Agreste Paraibano,014,Esperança,09503,2509503,Montadas
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,09602,2509602,Monte Horebe
+Paraíba,02,Borborema,010,Cariri Ocidental,09701,2509701,Monteiro
+Paraíba,03,Agreste Paraibano,016,Guarabira,09800,2509800,Mulungu
+Paraíba,03,Agreste Paraibano,019,Umbuzeiro,09909,2509909,Natuba
+Paraíba,01,Sertão Paraibano,003,Sousa,10006,2510006,Nazarezinho
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,10105,2510105,Nova Floresta
+Paraíba,01,Sertão Paraibano,005,Piancó,10204,2510204,Nova Olinda
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,10303,2510303,Nova Palmeira
+Paraíba,01,Sertão Paraibano,005,Piancó,10402,2510402,Olho d'Água
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,10501,2510501,Olivedos
+Paraíba,02,Borborema,010,Cariri Ocidental,10600,2510600,Ouro Velho
+Paraíba,02,Borborema,010,Cariri Ocidental,10659,2510659,Parari
+Paraíba,01,Sertão Paraibano,004,Patos,10709,2510709,Passagem
+Paraíba,01,Sertão Paraibano,004,Patos,10808,2510808,Patos
+Paraíba,01,Sertão Paraibano,003,Sousa,10907,2510907,Paulista
+Paraíba,01,Sertão Paraibano,006,Itaporanga,11004,2511004,Pedra Branca
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,11103,2511103,Pedra Lavrada
+Paraíba,04,Mata Paraibana,023,Litoral Sul,11202,2511202,Pedras de Fogo
+Paraíba,04,Mata Paraibana,020,Litoral Norte,12721,2512721,Pedro Régis
+Paraíba,01,Sertão Paraibano,005,Piancó,11301,2511301,Piancó
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,11400,2511400,Picuí
+Paraíba,04,Mata Paraibana,021,Sapé,11509,2511509,Pilar
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,11608,2511608,Pilões
+Paraíba,03,Agreste Paraibano,016,Guarabira,11707,2511707,Pilõezinhos
+Paraíba,03,Agreste Paraibano,016,Guarabira,11806,2511806,Pirpirituba
+Paraíba,04,Mata Paraibana,023,Litoral Sul,11905,2511905,Pitimbu
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,12002,2512002,Pocinhos
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,12036,2512036,Poço Dantas
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,12077,2512077,Poço de José de Moura
+Paraíba,01,Sertão Paraibano,003,Sousa,12101,2512101,Pombal
+Paraíba,02,Borborema,010,Cariri Ocidental,12200,2512200,Prata
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,12309,2512309,Princesa Isabel
+Paraíba,03,Agreste Paraibano,017,Campina Grande,12408,2512408,Puxinanã
+Paraíba,03,Agreste Paraibano,017,Campina Grande,12507,2512507,Queimadas
+Paraíba,01,Sertão Paraibano,004,Patos,12606,2512606,Quixaba
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,12705,2512705,Remígio
+Paraíba,03,Agreste Paraibano,013,Curimataú Oriental,12747,2512747,Riachão
+Paraíba,03,Agreste Paraibano,018,Itabaiana,12754,2512754,Riachão do Bacamarte
+Paraíba,04,Mata Paraibana,021,Sapé,12762,2512762,Riachão do Poço
+Paraíba,02,Borborema,011,Cariri Oriental,12788,2512788,Riacho de Santo Antônio
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,12804,2512804,Riacho dos Cavalos
+Paraíba,04,Mata Paraibana,020,Litoral Norte,12903,2512903,Rio Tinto
+Paraíba,02,Borborema,008,Seridó Ocidental Paraibano,13000,2513000,Salgadinho
+Paraíba,03,Agreste Paraibano,018,Itabaiana,13109,2513109,Salgado de São Félix
+Paraíba,03,Agreste Paraibano,019,Umbuzeiro,13158,2513158,Santa Cecília
+Paraíba,01,Sertão Paraibano,003,Sousa,13208,2513208,Santa Cruz
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,13307,2513307,Santa Helena
+Paraíba,01,Sertão Paraibano,006,Itaporanga,13356,2513356,Santa Inês
+Paraíba,02,Borborema,008,Seridó Ocidental Paraibano,13406,2513406,Santa Luzia
+Paraíba,04,Mata Paraibana,022,João Pessoa,13703,2513703,Santa Rita
+Paraíba,01,Sertão Paraibano,004,Patos,13802,2513802,Santa Teresinha
+Paraíba,01,Sertão Paraibano,006,Itaporanga,13505,2513505,Santana de Mangueira
+Paraíba,01,Sertão Paraibano,005,Piancó,13604,2513604,Santana dos Garrotes
+Paraíba,02,Borborema,011,Cariri Oriental,13851,2513851,Santo André
+Paraíba,01,Sertão Paraibano,003,Sousa,13927,2513927,São Bentinho
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,13901,2513901,São Bento
+Paraíba,01,Sertão Paraibano,003,Sousa,13968,2513968,São Domingos
+Paraíba,02,Borborema,011,Cariri Oriental,13943,2513943,São Domingos do Cariri
+Paraíba,01,Sertão Paraibano,003,Sousa,13984,2513984,São Francisco
+Paraíba,02,Borborema,011,Cariri Oriental,14008,2514008,São João do Cariri
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,00700,2500700,São João do Rio do Peixe
+Paraíba,02,Borborema,010,Cariri Ocidental,14107,2514107,São João do Tigre
+Paraíba,01,Sertão Paraibano,003,Sousa,14206,2514206,São José da Lagoa Tapada
+Paraíba,01,Sertão Paraibano,006,Itaporanga,14305,2514305,São José de Caiana
+Paraíba,01,Sertão Paraibano,004,Patos,14404,2514404,São José de Espinharas
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,14503,2514503,São José de Piranhas
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,14552,2514552,São José de Princesa
+Paraíba,01,Sertão Paraibano,004,Patos,14602,2514602,São José do Bonfim
+Paraíba,01,Sertão Paraibano,001,Catolé do Rocha,14651,2514651,São José do Brejo do Cruz
+Paraíba,02,Borborema,008,Seridó Ocidental Paraibano,14701,2514701,São José do Sabugi
+Paraíba,02,Borborema,010,Cariri Ocidental,14800,2514800,São José dos Cordeiros
+Paraíba,04,Mata Paraibana,021,Sapé,14453,2514453,São José dos Ramos
+Paraíba,02,Borborema,008,Seridó Ocidental Paraibano,14909,2514909,São Mamede
+Paraíba,04,Mata Paraibana,021,Sapé,15005,2515005,São Miguel de Taipu
+Paraíba,03,Agreste Paraibano,014,Esperança,15104,2515104,São Sebastião de Lagoa de Roça
+Paraíba,02,Borborema,010,Cariri Ocidental,15203,2515203,São Sebastião do Umbuzeiro
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,15401,2515401,São Vicente do Seridó
+Paraíba,04,Mata Paraibana,021,Sapé,15302,2515302,Sapé
+Paraíba,02,Borborema,010,Cariri Ocidental,15500,2515500,Serra Branca
+Paraíba,03,Agreste Paraibano,016,Guarabira,15609,2515609,Serra da Raiz
+Paraíba,01,Sertão Paraibano,006,Itaporanga,15708,2515708,Serra Grande
+Paraíba,03,Agreste Paraibano,017,Campina Grande,15807,2515807,Serra Redonda
+Paraíba,03,Agreste Paraibano,015,Brejo Paraibano,15906,2515906,Serraria
+Paraíba,03,Agreste Paraibano,016,Guarabira,15930,2515930,Sertãozinho
+Paraíba,04,Mata Paraibana,021,Sapé,15971,2515971,Sobrado
+Paraíba,03,Agreste Paraibano,013,Curimataú Oriental,16003,2516003,Solânea
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,16102,2516102,Soledade
+Paraíba,03,Agreste Paraibano,012,Curimataú Ocidental,16151,2516151,Sossêgo
+Paraíba,01,Sertão Paraibano,003,Sousa,16201,2516201,Sousa
+Paraíba,02,Borborema,010,Cariri Ocidental,16300,2516300,Sumé
+Paraíba,03,Agreste Paraibano,013,Curimataú Oriental,16409,2516409,Tacima
+Paraíba,02,Borborema,010,Cariri Ocidental,16508,2516508,Taperoá
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,16607,2516607,Tavares
+Paraíba,01,Sertão Paraibano,007,Serra do Teixeira,16706,2516706,Teixeira
+Paraíba,02,Borborema,009,Seridó Oriental Paraibano,16755,2516755,Tenório
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,16805,2516805,Triunfo
+Paraíba,01,Sertão Paraibano,002,Cajazeiras,16904,2516904,Uiraúna
+Paraíba,03,Agreste Paraibano,019,Umbuzeiro,17001,2517001,Umbuzeiro
+Paraíba,02,Borborema,008,Seridó Ocidental Paraibano,17100,2517100,Várzea
+Paraíba,01,Sertão Paraibano,003,Sousa,17209,2517209,Vieirópolis
+Paraíba,01,Sertão Paraibano,003,Sousa,05501,2505501,Vista Serrana
+Paraíba,02,Borborema,010,Cariri Ocidental,17407,2517407,Zabelê
